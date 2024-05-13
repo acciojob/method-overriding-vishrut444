@@ -17,7 +17,7 @@ public class Main {
         B obj = new B();
         //method from class A is invoked
         System.out.println(obj.meth());
-        //now method from class B
+        //now method From class B
         System.out.println(obj.meth());
 
     }
